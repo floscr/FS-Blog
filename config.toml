@@ -6,3 +6,6 @@ theme = "hyde"
 [params]
   description = "Personal Blog"
   author = "Florian Schrödl"
+
+[taxonomies]
+  tag = "tags"
