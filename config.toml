@@ -9,3 +9,7 @@ theme = "hyde"
 
 [taxonomies]
   tag = "tags"
+
+[author]
+  name = "Florian Schrödl"
+  email = "hello@florianschroedl.com"
