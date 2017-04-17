@@ -1,4 +1,4 @@
-baseURL = "https://florianschroedl.com/"
+baseURL = "https://blog.florianschroedl.com/"
 languageCode = "en-us"
 title = "Personal Blog"
 theme = "hyde"
