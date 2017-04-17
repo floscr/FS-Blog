@@ -1,6 +1,6 @@
 +++
-date = '2017-04-15'
-draft = true
+date = '2017-04-17T10:23:05+02:00'
+draft = false
 title = 'Remove old node_modules directories'
 tags = [ 'Snippets', 'Tips',  ]
 +++
