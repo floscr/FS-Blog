@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/floscr/FS-Blog.git",
+    "type": "git"
+  },
+  "author": "Florian Schrödl <hello@florianschroedl.com>",
+  "license": "MIT"
+}
