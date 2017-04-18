@@ -6,7 +6,7 @@ tags = [ 'Snippets', 'Tips',  ]
 +++
 
 The node_modules directories can grow quite large,
-if you need to free up some of that disk space with a simple bash command:
+if you need to free up some disk space with a simple bash command:
 
 ```shell
 find . -type d -name 'node_modules' -prune -print0 | xargs -0 rm -rf
